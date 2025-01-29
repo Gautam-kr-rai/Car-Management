@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In today's fast-paced automotive industry, efficiently managing and accessing vehicle information has become crucial for car enthusiasts, dealerships, and potential buyers. The Car Management App provides users with a comprehensive platform for discovering, managing, and organizing detailed information about various cars. This includes key details like model name, manufacturer, release year, pricing, and other specifications.
+The Car Management App provides users with a comprehensive platform for discovering, managing, and organizing detailed information about various cars. This includes key details like model name, manufacturer, release year, pricing, and other specifications.
 
 Leveraging the power of the MERN stack (MongoDB, Express, React, Node.js), the app ensures efficient data management, seamless performance, and a robust user experience. The core idea behind this project is to simplify the process of car information management by offering a one-stop solution for users to search, view, add, update, and delete car details.
 
@@ -20,7 +20,7 @@ Responsive Design: Accessible across devices, including desktops, tablets, and s
 
 ## Installation and Setup
 
-Clone the Repository: `git clone https://github.com/shubham4672/Car-Management/`
+Clone the Repository: `gh repo clone Gautam-kr-rai/Car-Management`
 
 Navigate to the Project Directory: `cd car-management-app`
 
@@ -62,10 +62,3 @@ Contributions are welcome! Please follow these steps:
 > Commit your changes with clear messages.
 > Submit a PR.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-For inquiries or feedback, please reach out at shubham4672.20@gmail.com.
