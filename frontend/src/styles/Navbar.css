@@ -1,0 +1,37 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #465986;
+  padding: 10px 20px;
+  color: white;
+}
+
+.navbar .logo {
+  font-size: 24px;
+}
+
+.navbar .nav-links {
+  display: flex;
+  gap: 15px;
+  list-style: none;
+}
+
+.navbar .nav-links li {
+  display: inline;
+}
+
+.navbar .nav-links a {
+  color: white;
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+}
+
+@media only screen and (max-width: 678px) {
+  .nav-links {
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+  }
+}
